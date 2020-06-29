@@ -1,11 +1,11 @@
 # Site settings
 author: Russell Doane
-title: 
+title: Coding. A new world
 header-img: img/home-bg.png
 email: russdoane@yahoo.com
 copyright_name: Russell Doane
 description: > # this means to ignore newlines until "baseurl:"
-  
+  coding world
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  WreckitRuss
