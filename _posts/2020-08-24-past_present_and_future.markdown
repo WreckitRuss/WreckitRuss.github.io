@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Past, Present, and Future"
-date:       2020-08-25 00:44:36 +0000
+date:       2020-08-24 20:44:36 -0400
 permalink:  past_present_and_future
 ---
 
